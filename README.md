@@ -1,3 +1,3 @@
 # Credit-Card-Fraud-Detection
-Anonymized credit card transactions labeled as fraudulent or genuine detection using logistic regression.
+Anonymized credit card transactions labeled as fraudulent or genuine classification  using logistic regression.
 
